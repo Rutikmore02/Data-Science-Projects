@@ -38,3 +38,11 @@ pip install pandas numpy matplotlib seaborn
 ## License
 This project is for educational purposes only. Data sources belong to their respective owners.
 
+
+![image](https://github.com/user-attachments/assets/54b21f94-40b9-4b70-8f73-84021687a871)
+
+
+![image](https://github.com/user-attachments/assets/c9cdc789-8397-4fa1-bb19-a673176a68d8)
+
+
+
